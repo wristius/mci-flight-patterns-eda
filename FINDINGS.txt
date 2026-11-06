@@ -1,0 +1,35 @@
+Outbound routes from MCI: 82
+
+Unique destinations from MCI: 43
+
+Unique airlines from MCI: 15
+
+Domestic destinations: 80 (97.6%), international: 2
+
+Nonstop routes (0 stops): 82, with stops: 0
+
+Distance: median 704 mi, mean 826 mi, longest 1495 mi (San Francisco), shortest 162 mi (Salina)
+
+Top destinations by route count:
+  Atlanta: 8
+  Chicago: 5
+  Denver: 4
+  Washington: 4
+  Seattle: 3
+  Minneapolis: 3
+  Phoenix: 3
+  Philadelphia: 3
+  Orlando: 3
+  Los Angeles: 3
+
+Top airlines by outbound routes:
+  WN (Southwest Airlines): 24
+  FL (AirTran Airways): 18
+  DL (Delta Air Lines): 9
+  AA (American Airlines): 7
+  UA (United Airlines): 7
+  US (US Airways): 6
+  F9 (Frontier Airlines): 2
+  K5 (SeaPort Airlines): 2
+  AZ (Alitalia): 1
+  AM (AeroMéxico): 1
