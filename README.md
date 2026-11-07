@@ -43,6 +43,11 @@ All numbers below were computed from the data in this repo by
   against each other.
 - **Distance:** great-circle (haversine) distance from MCI's
   coordinates (39.2976, -94.7139) to each destination airport.
+  I used haversine because latitude and longitude are angles on a
+  sphere, so a flat-map distance would be wrong — a flat calculation
+  for MCI to San Francisco gives about 1,912 miles, the real
+  distance is 1,495. The full explanation, with the formula and
+  source, is in [docs/haversine-distance.md](docs/haversine-distance.md).
 
 ## Honest caveats
 
