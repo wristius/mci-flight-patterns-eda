@@ -13,7 +13,7 @@ actually fly, which corridors are busiest, and when.
 ## What I found
 
 All numbers below were computed from the data in this repo by
-`eda_mci.py`. No numbers were invented.
+`eda_mci.py`. 
 
 - **82 outbound routes from MCI, to 43 unique destinations, flown by
   15 airlines.** Inbound routes: 77.
