@@ -3,12 +3,7 @@
 An exploratory analysis of the flight routes in and out of Kansas City
 International Airport (MCI), built from public route data.
 
-Why this airport: I worked the ramp at the airport and then as a
-delivery driver. I already know turnarounds, schedules, and delays from
-the ground side. This project tests that understanding with data — and
-it is a first step toward learning drone operation after my degree,
-because drone work starts with understanding airspace: where aircraft
-actually fly, which corridors are busiest, and when.
+Why this airport: I worked as a ramp operator at the airport for a few months & was curious. I already knew some of the plane schedules from the ground side and I wanted to test my understanding with data.
 
 ## What I found
 
